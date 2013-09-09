@@ -31,8 +31,8 @@
     <conf name="Debug" type="1">
       <toolsSet>
         <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
-        <compilerSet>Cygwin|Cygwin</compilerSet>
-        <dependencyChecking>true</dependencyChecking>
+        <compilerSet>Cygwin_4.x|Cygwin_4.x</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
         <rebuildPropChanged>false</rebuildPropChanged>
       </toolsSet>
       <compileType>
